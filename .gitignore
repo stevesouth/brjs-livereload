@@ -4,3 +4,17 @@
 .gradle/1.9/taskArtifacts/cache.properties.lock
 
 gradle.properties
+
+.gradle/1.9/taskArtifacts/fileHashes.bin
+
+.gradle/1.9/taskArtifacts/fileSnapshots.bin
+
+.gradle/1.9/taskArtifacts/outputFileStates.bin
+
+.gradle/1.9/taskArtifacts/taskArtifacts.bin
+
+brjs-livereload.iml
+
+brjs-livereload.ipr
+
+brjs-livereload.iws
